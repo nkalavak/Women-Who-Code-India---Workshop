@@ -1,4 +1,4 @@
-# ACT-W-Conference---Introduction To Unity for AR/VR Development
+# Women Who Code India---Introduction To Unity for AR/VR Development
 
 ## Microsoft Dream Build Play: https://developer.microsoft.com/en-us/windows/projects/campaigns/dream-build-play-challenge   
 
